@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 70rem;
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+header {
+  background-color: white;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+h1 {
+  font-style: italic;
+  font-size: 40px;
+ font-family: 'Anton', sans-serif;
+p.thick 
+  font-weight: bold;
+  color: #f263d1;
+}
+
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+  font-family: 'Heebo', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+color: #636360;
+}
+
+p {
+  font-size: 15px;
+  font-family: 'Slabo 27px', serif;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto; 
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
